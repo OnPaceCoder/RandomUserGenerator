@@ -30,7 +30,7 @@ function App() {
     <div className="App">
       <Container fluid className="p-4 bg-primary App">
          <Row>
-          <Col md={12}  className="offsed-md-4 mt-4">
+          <Col md={12}  className="offset-md-4 mt-4">
           <Cards details={details}/>
            </Col>
          </Row>
